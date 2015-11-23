@@ -1,3 +1,5 @@
 {
-	"CurrentAddress":"http://pastebin.com"
+	"Addresses":[
+		"http://pastebin.com"
+	]
 }
